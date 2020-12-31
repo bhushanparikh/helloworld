@@ -1,7 +1,6 @@
 service: amigo
 runtime: java11
 api_version: 1
-threadsafe: true
 handlers:
 - url: /.*
   script: None
