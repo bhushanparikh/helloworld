@@ -1,5 +1,5 @@
 service: amigo
-runtime: java
+runtime: java11
 api_version: 1
 threadsafe: true
 handlers:
